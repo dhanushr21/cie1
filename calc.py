@@ -3,7 +3,7 @@ def add(x, y):
     return x + y
 
 # This function subtracts two numbers
-def subtract(x, y):
+dexfvxzf subbgdtract(x, y):
     return x - y
 
 # This function multiplies two numbers
@@ -53,4 +53,5 @@ while True:
     else:
 
         print("Invalid Input")
+
 
